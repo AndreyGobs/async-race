@@ -1,0 +1,8 @@
+html,body{padding:0;margin:0;font-family:"Roboto",sans-serif;font-size:15px}*,*::before,*::after{box-sizing:border-box}body{height:100vh}
+.engine-form{display:flex;flex-direction:column;padding-bottom:5px;padding-right:5px}.race-btn{margin-left:10px;margin-top:10px}.winner-modal{font-size:40px;text-shadow:2px 2px 2px red;position:absolute;top:50%;left:50%;transform:translateX(-50%);text-align:center}
+table{margin:0 auto;width:50%;font-size:14px;border-collapse:collapse;text-align:center}th,td:first-child{background:#afcde7;color:#fff;font-weight:600;padding:10px 20px}th,td{border-style:solid;border-width:0 1px 1px 0;border-color:#fff}td{background:#d8e6f3}th:first-child,td:first-child{text-align:left}.wins:hover,.best-time:hover{cursor:pointer}
+.garage{margin:30px 10px;display:flex;flex-direction:column}.race{display:flex;justify-content:space-between;align-items:flex-end;margin-top:15px;border-bottom:2px solid #000;height:100px}.car{display:flex;flex-direction:column;width:100%}.car-name{margin-top:5px}.car-img{display:block;width:70px;height:50px;transition:padding-left linear .2s}.flag{display:block;height:60px;padding-right:80px}.pagination{padding:20px 0}
+.page-toggle{padding:15px 10px;display:flex;justify-content:left}.btn{padding:3px 5px;text-decoration:none;color:inherit;border:2px solid #000;border-radius:5px;transition:border .1s linear}.btn:hover{cursor:pointer;border-color:red}.page-garage{margin-right:10px}
+.form-create-wrapper{padding:5px 10px}
+.form-generate-wrapper{display:inline;margin:5px 10px 40px}
+.form-update-wrapper{padding:5px 10px}
